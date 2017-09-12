@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AZTabBar.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>EasyNotificationBadge.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SampleTabBarApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SampleTabBarAppTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SampleTabBarAppUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>22299787EE8D04B0E8F6CB930EAA499B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>91E5D65CC8BC2F1043798063F0803871</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BA4191C84198127733513249ECE62621</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CCBB18359E63222B63D903C67E5054E1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CE5A84D8B6B4ACA770558152133FF19C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
